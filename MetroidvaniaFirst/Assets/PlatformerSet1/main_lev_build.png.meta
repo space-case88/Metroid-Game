@@ -37678,27 +37678,6 @@ TextureImporter:
       indices: 
       edges: []
       weights: []
-    - serializedVersion: 2
-      name: main_lev_build_1789
-      rect:
-        serializedVersion: 2
-        x: 822
-        y: 526
-        width: 45
-        height: 67
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-      bones: []
-      spriteID: 71c5d5deb1c5c2541ac6340017078c9e
-      internalID: 10034412
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -38588,7 +38567,6 @@ TextureImporter:
       main_lev_build_1786: -975243544
       main_lev_build_1787: -1454134080
       main_lev_build_1788: -1874043722
-      main_lev_build_1789: 10034412
       main_lev_build_179: -311108920
       main_lev_build_18: -2122746749
       main_lev_build_180: -974858408
